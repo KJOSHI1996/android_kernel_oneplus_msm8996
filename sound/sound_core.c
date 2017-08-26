@@ -11,6 +11,7 @@
 #include <linux/device.h>
 #include <linux/err.h>
 #include <linux/kdev_t.h>
+#include <sound/core.h>
 #include <linux/major.h>
 #include <sound/core.h>
 
